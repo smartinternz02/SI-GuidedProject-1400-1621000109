@@ -1,0 +1,21 @@
+                                                            ASSIGNMENT-1
+1.Smart Home
+2.Wearables
+3.Smart Cities
+4.Connected Car
+5.Amazon Echo and Google Home 
+6. Health care
+7.Smart Agriculture
+8.AT&T - Connected Car
+9.Industrial Automation
+10.Self-Driving Vehicles
+11.Smart Utility Grids
+12.Smart Supply Chain Management
+13.Drones
+14.AR/VR
+15.Machine-to-Machine (M2M) Connected Devices
+16.Robot Controlling System Based On Internet Of  Things
+17.Transportation / Mobility
+18.Retail
+19.AR Glasses
+20. Industrial Security and Safety
